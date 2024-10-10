@@ -1,5 +1,5 @@
 # from 775 (2008) </br>
-# from 45nm to 10nm </br>
+# 45nm to 10nm </br>
 
 This Historic Study or Analisys of CPU processors, is focused around 4 core CPUs, </br>
 the idea is to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
