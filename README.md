@@ -8,7 +8,7 @@ New Ultra "15th gen"+A.I. will see.. TBU. </br>
 
 Improvement can be measured in different ways: </br>
 Clock vs. Clock: Performance gain at same clock speeds, </br>
-Power consumption: Watt vs. Watt, Performance gain at same Watts. </br>
+Watt vs. Watt, Performance gain at same Watts. </br>
 New features vs. Features used by most people. </br>
 
 ### The LGA775 era: </br>
