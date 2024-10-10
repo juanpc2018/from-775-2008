@@ -1,11 +1,13 @@
-# from-775-2008
+# from 775 (2008) </br>
+# from 45nm to 10nm </br>
 
 This Historic Study or Analisys of CPU processors, are focused around 4 core CPUs, </br>
-to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
-will ignore 13th gen & 14th gen because the 13th curse, </br>
+the idea is to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
+will ignore 13th gen & 14th gen because the [13th curse](https://en.wikipedia.org/wiki/Triskaidekaphobia) </br>
 New Ultra "15th gen"+A.I. will see.. TBU. </br>
 
-Q9650 "the 3rd best of the LGA775 era", The fastest under 100w "The best overall", </br>
+The LGA775 era: </br>
+Q9650 "was the 3rd best", The fastest under 100w "The best overall", </br>
 QX9775 was the 1st, but 150w, small improvement, was about pushing the limits of that transistor size 45nm. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
 
@@ -140,3 +142,8 @@ Average 3.93x almost 4x. </br>
 with 60w vs. 95w </br>
 10nm vs. 45nm </br>
 Newer SSE4.2, AVX2, AVX2+ instructions that boost performance in software updated with compilers designed for those instructions. </br>
+
+a reduction from 45nm to 10nm "4.5:1" </br>
+did Not bring an improvement of "4.5x" </br>
+the reason probably is the [Black Silicon](https://semiengineering.com/knowledge_centers/low-power/techniques/dark-silicon/) areas "Dead Silicon" </br>
+1/3 "33.3%" in 20nm upto 80% in 5nm. </br>
