@@ -39,9 +39,8 @@ i7-930 has a Net Gain of 103.2% in Multi-Thread "Single core loss in Multi-Core 
 ### The fastest 4-core of the LGA1366 era: </br>
 i7-975 / X5687 / W3575 </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_core_2_quad_q9650 </br>
-Single Core has a +23% vs. Q9650 single core. </br>
-Q9650 is 77% vs. i7-975 "+29%". </br>
-slight clock boost, 3.6GHz vs. 3GHz. </br>
+Single Core Q9650 is 77% vs. i7-975 "+29%". </br>
+slight clock boost: 3.6GHz vs. 3GHz. </br>
 In Multi-core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
 Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
 4cores vs. 4c+4t "8-threads" </br>
