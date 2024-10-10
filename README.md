@@ -90,8 +90,9 @@ i7-975 is 82% Single-core vs. E5-1620v2 "E5v2 has +22% improvement" </br>
 
 ### FastForward to 7th gen: </br>
 7700HQ = 10100T </br>
+HQ & T are Low Power versions. </br>
 Q9650 is 50%, </br>
-Both 100% faster "2x" in Single core. </br>
+Both are 100% faster "2x" in Single core. </br>
 small clock boost: 3.8Ghz vs. 3Ghz = not really 100% faster if were running at same clock. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700hq-vs-intel_core_2_quad_q9650 </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100t-vs-intel_core_2_quad_q9650 </br>
