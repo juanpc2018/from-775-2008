@@ -51,7 +51,7 @@ Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
 
 ### Next Gen:  </br>
 MacPro 6,1 2013 Quad Core era. </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_quad_q9650 </br>
+[E5-1620v2](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_quad_q9650) </br>
 Q9650 is 54% in Single core vs. E5-1620v2 "85% improvement"</br>
 44% in Multi-Thread, "2.27x improvement" </br>
 E5-1620v2 has Higher Power Consumption, 130w vs. 95w "a 36% power increse." </br>
@@ -95,13 +95,13 @@ but E5-2697v2 has a slight performance boost of +6.3% Single-core with lower clo
 79% Multi-core "26.5% improvement" </br>
 
 ### FastForward to 7th gen: </br>
-7700HQ = 10100T </br>
+[7700HQ = 10100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700hq-vs-intel_core_i3_10100t) same clock speeds 3.8Ghz, </br>
+but 10100T has lower power consumption and more performance. </br>
 HQ & T are Low Power versions. </br>
-Q9650 is 50%, </br>
-Both are 100% faster "2x" in Single core. </br>
+Q9650 is ~50% performance, </br>
+[i7-7700HQ](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700hq-vs-intel_core_2_quad_q9650) & [i3-10100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100t-vs-intel_core_2_quad_q9650) </br>
+Both ~100% faster "2x" in Single core. </br>
 small clock boost: 3.8Ghz vs. 3Ghz = not really 100% faster if were running at same clock. </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700hq-vs-intel_core_2_quad_q9650 </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100t-vs-intel_core_2_quad_q9650 </br>
 
 [7700K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700k-vs-intel_core_2_quad_q9650) the fastest 4c/8t of the 7th Generation. </br>
 Q9650 is 38% vs. Single Core "2.63x" </br>
