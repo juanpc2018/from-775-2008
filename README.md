@@ -20,8 +20,8 @@ There were many changes from 775 to 1366, most notable chipset: [X58](https://en
 makes some PCI cards incompatible, like Digidesign 001 driver v6.4 </br>
 LGA1366 "Land Grid Aray" also introduced Tripple Channel DDR3 memory, many boards had issues broken traces, </br>
 because pcb routing complexity "many layers & 1366 traces" combined with a socket mount pressure that does Not have a stop, </br>
-many CPUs screws could be over tightened, over screwed / squashing the PCB. </br>
-some 775 had DDR3 but Dual-Channel. </br>
+many Heatsink screws could be over tightened, or screwed uneven, squashing & bending the PCB. </br>
+some 775 had DDR3 but Dual-Channel </br>
 i think Turbo v1.0 mode was also introduced in lga1366 </br>
 Virtualization became standard, in 775 was optional. </br>
 
