@@ -1,17 +1,17 @@
 # from 775 (2008) </br>
 # from 45nm to 10nm </br>
 
-This Historic Study or Analisys of CPU processors, are focused around 4 core CPUs, </br>
+This Historic Study or Analisys of CPU processors, is focused around 4 core CPUs, </br>
 the idea is to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
 will ignore 13th gen & 14th gen because the [13th curse](https://en.wikipedia.org/wiki/Triskaidekaphobia) </br>
 New Ultra "15th gen"+A.I. will see.. TBU. </br>
 
-The LGA775 era: </br>
+### The LGA775 era: </br>
 Q9650 "was the 3rd best", The fastest under 100w "The best overall", </br>
 QX9775 was the 1st, but 150w, small improvement, was about pushing the limits of that transistor size 45nm. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
 
-Next Gen LGA1366 </br>
+### Next Gen LGA1366 </br>
 i7-930 / W3530 / X5630  </br>
 same clock 3GHz as Q9650 </br>
 only has a small improvement +9% in Single Core, but has New AES instructions. </br>
@@ -21,7 +21,7 @@ HyperThreading, an improvement around ~25%, this case 27%. </br>
 Q9650 Single Core has a loss of 17% in Multi Core "All Cores." </br>
 i7-930 has a Net Gain of 103.2% in Multi-Thread "Single core clock loss in Multi-Core + Hyper Threading Gains." </br>
 
-The fastest 4-core of the LGA1366 era: </br>
+### The fastest 4-core of the LGA1366 era: </br>
 i7-975 / X5687 / W3575 </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_core_2_quad_q9650 </br>
 Single Core has a +23% vs. Q9650 single core. </br>
@@ -37,7 +37,7 @@ LGA1366 also introduced Tripple Channel DDR3 memory, </br>
 some PGA775 had DDR3 but Dual-Channel. </br>
 Turbo v1.0 mode introduced in lga1366 </br>
 
-Next Gen:  </br>
+### Next Gen:  </br>
 MacPro 6,1 2013 Quad Core era. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_quad_q9650 </br>
 Q9650 is 54% in Single Core </br>
@@ -69,7 +69,7 @@ https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_162
 i7-975 is 82% Single-core vs. E5-1620v2 "E5v2 has +22% improvement" </br>
 79% Multi-core "+26.5% improvement" </br>
 
-FastForward to 7th gen: </br>
+### FastForward to 7th gen: </br>
 7700HQ = 10100T </br>
 Q9650 is 50%, </br>
 Both 100% faster "2x" in Single core. </br>
@@ -82,7 +82,7 @@ https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700k-vs-intel_core_2_qu
 Q9650 is 38% vs. Single Core. </br>
 29%-33% vs. Multi-Thread 4c+4t </br>
 
-Around 7th & 8th gen was released the:  </br>
+### Around 7th & 8th gen:  </br>
 MacPro 2019 with W-35xx CPUs, similar to Gold 61xx 62xx </br>
 W- CPUs are the server version of the 8th gen, with slightly lower clock speeds,  </br>
 but ECC memory, and much more PCIe lanes. </br>
@@ -101,7 +101,7 @@ same Monolithic design </br>
 95w vs 91w "slight power saving = drastic power efficiency increase" </br>
 4Ghz vs. 3GHz.  </br>
 
-9th gen </br>
+### 9th gen </br>
 i3-9350K </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_9350k-vs-intel_core_2_quad_q9650 </br>
 same power vs. 8350K = 91w </br>
@@ -109,7 +109,7 @@ but... </br>
 Q9650 is 37% in Single Core "-3%" </br>
 33% "-7%" in Multi-Core. </br>
 
-10th gen </br>
+### 10th gen </br>
 i3-10100 No-T, the fastest 4c + HT "4t" </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100-vs-intel_core_2_quad_q9650 </br>
 Q9650 is 40% Single-core = same vs. 8350K,  </br>
@@ -119,7 +119,7 @@ but i3-10100 power consumption is much lower. </br>
 31% Multi-Thread, 10100 Non-T is faster in Multi-Thread because has Hyper Threading vs. 8350k and 9350k. </br>
 its a side improvement. </br>
 
-11th gen </br>
+### 11th gen </br>
 i3-1110B </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_11100b-vs-intel_core_2_quad_q9650 </br>
 Q9650 is 33% both Single core or Multi Thread 4c+4t </br>
@@ -129,6 +129,7 @@ same in Multi-Thread. </br>
 Slight improvement in Single Core, </br>
 Slight loss in Multi-Thread vs. i3-10100 No-T </br>
 
+### 12th gen: </br>
 i3-12100T </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100t-vs-intel_core_2_quad_q9650 </br>
 Q9650 is 28% vs. in Single  </br>
