@@ -175,3 +175,4 @@ the reason probably is the [Black Silicon](https://semiengineering.com/knowledge
 
 as a side Note, the nightmare of Board manufacturers is the dream of vintage collectors, </br>
 a New re release CPU's with smaller transistors, but pin compatible with older boards. </br>
+Anniversary Editions. </br>
