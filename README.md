@@ -77,6 +77,7 @@ but that was an improvement most people did Not see. </br>
 and most software & operating systems are designed for a Fast Dual-Core CPU. </br>
 in my opinion a Quad-Core is the minimum to run a single Virtual Machine, </br>
 a dual-core can do it, but performance will be severe compromised. </br>
+also a Quad-core has enough low power consumption for everyday use, common tasks, Browsing internet, IP security cameras, etc... </br>
 
 QX9775 & QX9770 have +1% & +2% increase Single core vs. Q9650,  </br>
 with massive power consumption increase </br>
