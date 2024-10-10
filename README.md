@@ -60,12 +60,10 @@ a slightly higher Clock boost. </br>
 3.9GHz vs. 3.2Ghz in QX9770 136w / QX9775 150w </br>
 3.6Ghz / 3.33Ghz in i7-975 130w </br>
 3Ghz in Q9650 95w. </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_extreme_qx9770 </br>
-Qx9770 is 52% Single vs. E5-1620v2 "+92%" </br>
+[QX9770](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_extreme_qx9770) is 52% Single vs. E5-1620v2 "+92%" </br>
 45% Multi-core a 2.22x increase in performance </br>
 vs. QX9775 150w </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_extreme_qx9775 </br>
-Q9775 is 53% Single Core vs. E5-1620v2 +88% performance increase,</br>
+[QX9775](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_extreme_qx9775) is 53% Single Core vs. E5-1620v2 +88% performance increase, </br>
 45% Multi-Thread, also 2.22x </br>
 
 The Goal of the E5-v2 CPU was to combine 12-cores in a Single CPU, </br>
