@@ -46,7 +46,7 @@ Single Core Q9650 is 77% vs. i7-975 "+29%". </br>
 slight clock boost: 3.6GHz vs. 3GHz. </br>
 In Multi-core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
 Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
-4cores vs. 4c+4t "8-threads" </br>
+4-cores vs. 4c+4t "8-threads" </br>
 
 ### Next Gen:  </br>
 MacPro 6,1 2013 Quad Core era. </br>
