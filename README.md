@@ -26,7 +26,7 @@ i think Turbo v1.0 mode was also introduced in lga1366 </br>
 Virtualization became standard, in 775 was optional. </br>
 
 #### i7-930 / W3530 / X5630  </br>
-X version combined with 5500 / 5520 chipset allowed boards with multi cpus </br>
+X version combined with 5500 / 5520 chipset allowed boards with multi-cpus, also ECC Memory </br>
 same clock 3GHz as Q9650 </br>
 only has a small improvement +9% in Single Core, but has New AES instructions. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650 </br>
