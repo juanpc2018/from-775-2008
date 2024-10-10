@@ -21,9 +21,9 @@ makes some PCI cards incompatible, like Digidesign 001 driver v6.4 </br>
 LGA1366 also introduced Tripple Channel DDR3 memory, many boards had issues broken traces, </br>
 because pcb routing complexity "many layers & 1366 traces" combined with a socket mount pressure that does Not have a stop, </br>
 many CPUs screws could be over tightened, over screwed / squashing the PCB. </br>
-some PGA775 had DDR3 but Dual-Channel. </br>
+some 775 had DDR3 but Dual-Channel. </br>
 i think Turbo v1.0 mode was also introduced in lga1366 </br>
-Virtaulization became standard, in 775 was optional. </br>
+Virtualization became standard, in 775 was optional. </br>
 
 #### i7-930 / W3530 / X5630  </br>
 X version combined with 5500 / 5520 chipset allowed boards with multi cpus </br>
