@@ -157,6 +157,7 @@ https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100t-vs-intel_core_2_q
 Q9650 is 28% vs. in Single  </br>
 28% in Multi-Thread. "+3.57x" </br>
 T is a low power version, </br>
+
 i3-12100 "No-T" </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100-vs-intel_core_2_quad_q9650 </br>
 Q9650 is 27%-28% in Single Core ~3.7x </br>
@@ -168,5 +169,6 @@ Newer SSE4.2, AVX2, AVX2+ instructions that boost performance in software update
 
 a reduction from 45nm to 10nm "4.5:1" </br>
 did Not bring an improvement of "4.5x" </br>
+with a power reduction of 50%, close 55% 3.7x. </br>
 the reason probably is the [Black Silicon](https://semiengineering.com/knowledge_centers/low-power/techniques/dark-silicon/) areas "Dead Silicon" </br>
 1/3 "33.3%" in 20nm upto 80% in 5nm. </br>
