@@ -11,7 +11,7 @@ Q9650 "was the 3rd best", The fastest under 100w "The best overall", </br>
 QX9775 was the 1st, but 150w, small improvement, was about pushing the limits of that transistor size 45nm. </br>
 also QX9775 was the only that allowed multi-cpu boards. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
-775 was the last with Pin Grid Array CPUs. </br>
+478 was the last with Pin Grid Array CPU, 775 was the 1st with LGA "Land Grid Array".</br>
 There were many [chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets) for 775, Core2 Era & Core2Quad, the most notable: 975x, P45, X38, X48 </br>
 chipset transistor size from 130nm to 65nm, behind CPU 45nm, using older Fabs to make chipsets, New Fabs to make CPUs </br>
 
@@ -71,7 +71,7 @@ Q9775 is 53% Single Core vs. E5-1620v2 +88% performance increase,</br>
 
 The Goal of the E5-v2 CPU was to combine 12-cores in a Single CPU, </br>
 previous generation LGA1366 required dual X5690 CPU's to have 12-Cores / 24-Threads in a single board, </br>
-previous pga775 required 2x QX9775 CPU's to have 8-cores in a single board, </br>
+previous 775 required 2x QX9775 CPU's to have 8-cores in a single board, </br>
 but that was an improvement most people did Not see. </br>
 and most software & operating systems are designed for a Fast Dual-Core CPU. </br>
 in my opinion a Quad-Core is the minimum to run a single Virtual Machine, </br>
