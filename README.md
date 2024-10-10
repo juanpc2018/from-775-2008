@@ -31,9 +31,8 @@ Virtualization became standard, in 775 was optional. </br>
 
 #### i7-930 / W3530 / X5630  </br>
 X version combined with 5500 / 5520 chipset allowed boards with multi-cpus, also ECC Memory </br>
-same clock 3GHz as Q9650 </br>
+[i7-930](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650) has same clock 3GHz as Q9650 </br>
 only has a small improvement +9% in Single Core, but has New AES instructions. </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650 </br>
 Mult-core: i7-930 has a New technology: </br>
 HyperThreading, an improvement around ~25% in Multi-Threads, this case 27%. </br>
 but requires software to be compiled to take advantage of Multi-Threads. </br>
@@ -41,8 +40,7 @@ Q9650 Single Core has a loss of -17% in Multi-Core "All Cores." </br>
 i7-930 has a Net Gain of 103.2% in Multi-Thread "Single core loss in Multi-Core + Hyper Threading Gain." </br>
 
 ### The fastest 4-core of the LGA1366 era: </br>
-i7-975 / X5687 / W3575 </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_core_2_quad_q9650 </br>
+[i7-975](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_core_2_quad_q9650) / X5687 / W3575 </br>
 Single Core Q9650 is 77% vs. i7-975 "+29%". </br>
 slight clock boost: 3.6GHz vs. 3GHz. </br>
 In Multi-core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
