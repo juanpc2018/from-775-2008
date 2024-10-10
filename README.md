@@ -100,7 +100,7 @@ https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100t-vs-intel_core_2_q
 7700K the fastest 4c/8t of the 7th Generation. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700k-vs-intel_core_2_quad_q9650 </br>
 Q9650 is 38% vs. Single Core. </br>
-29%-33% vs. Multi-Thread 4c+4t </br>
+Multi-Thread is 29%-33% 4c+4t </br>
 
 ### Around 7th & 8th gen:  </br>
 MacPro 2019 with W-35xx CPUs, similar to Gold 61xx 62xx </br>
