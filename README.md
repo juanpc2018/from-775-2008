@@ -77,7 +77,7 @@ a dual-core can do it, but performance will be severe compromised. </br>
 QX9775 & QX9770 have +1% & +2% increase Single core vs. Q9650,  </br>
 with massive power consumption increase </br>
 +36% & +58%. </br>
-E5-1620v2 has +85% increase in Single core vs. Q9650, </br>
+E5-1620v2 has +85% performance increase in Single core vs. Q9650, </br>
 with +43% power consumption. </br>
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_1620_v2 </br>
