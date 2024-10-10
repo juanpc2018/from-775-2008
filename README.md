@@ -86,7 +86,7 @@ with +43% power consumption, </br>
 but... 12-core E5-2697v2 CPU vs. dual 6-core X5690 CPUs had a [-50% power](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_2697_v2-vs-intel_core_i7_990x) reduction, same 130w, </br>
 with a Clock Frequency loss of: 2.70 GHz / 3.5 GHz "Turbo" vs. 3.46 GHz / 3.73 GHz (1-core) </br>
 Not a -50% power consumption clock speed vs. clock speed. </br>
-but E5-2697v2 has a slight performance boot of +6.3% Single-Core with a lower clock speed vs. i7-990x / X5690 / W3590. </br>
+but E5-2697v2 has a slight performance boost of +6.3% Single-core with lower clock speed vs. i7-990x / X5690 / W3590. </br>
 
 [i7-975](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_1620_v2) is 82% Single-core vs. E5-1620v2 "E5v2 has 22% improvement" </br>
 79% Multi-core "26.5% improvement" </br>
