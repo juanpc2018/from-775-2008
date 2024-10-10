@@ -1,7 +1,7 @@
 # from 775 (2008) </br>
 # 45nm to 10nm </br>
 
-This Historic Study / Analisys of CPU processors, is focused around 4 core CPUs, </br>
+This Historic Study / Analisys of CPU processors, is focused around intel 4 core CPUs, </br>
 the idea is to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
 will ignore 13th gen & 14th gen because the [13th curse](https://en.wikipedia.org/wiki/Triskaidekaphobia) </br>
 New Ultra "15th gen"+A.I. will see.. TBU. </br>
