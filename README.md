@@ -116,8 +116,7 @@ X48 boards had 2x PCIe x16, "32 lanes" </br>
 most gamer boards have a limited PCIe lanes,  </br>
 Not designed for adding more PCIe cards without halving speed, </br>
 
-i3-8350K the fastest of the 8th gen, No HyperThreading. </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_8350k-vs-intel_core_2_quad_q9650 </br>
+[i3-8350K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_8350k-vs-intel_core_2_quad_q9650) the fastest of the 8th gen, No HyperThreading. </br>
 Q9650 is 40% vs. single core "2.5x faster" </br>
 40% vs. Multi-Core same 4c vs, 4c No HT. </br>
 45nm vs, 14nm </br>
@@ -127,16 +126,14 @@ same Monolithic design </br>
 4Ghz vs. 3GHz.  </br>
 
 ### 9th gen </br>
-i3-9350K </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_9350k-vs-intel_core_2_quad_q9650 </br>
+[i3-9350K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_9350k-vs-intel_core_2_quad_q9650) </br>
 same power vs. 8350K = 91w </br>
 but... </br>
 Q9650 is 37% in Single Core "-3%" </br>
 33% "-7%" in Multi-Core. </br>
 
 ### 10th gen </br>
-i3-10100 No-T, the fastest 4c + HT "4t" </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100-vs-intel_core_2_quad_q9650 </br>
+[i3-10100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100-vs-intel_core_2_quad_q9650) No-T, the fastest 4c + HT "4t" </br>
 Q9650 is 40% Single-core = same vs. 8350K,  </br>
 i3-9350K is faster +3% in Single Core,  </br>
 but i3-10100 power consumption is much lower. </br>
@@ -145,8 +142,7 @@ but i3-10100 power consumption is much lower. </br>
 its a side improvement. </br>
 
 ### 11th gen </br>
-i3-1110B </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_11100b-vs-intel_core_2_quad_q9650 </br>
+[i3-1110B](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_11100b-vs-intel_core_2_quad_q9650) </br>
 Q9650 is 33% both Single core or Multi Thread 4c+4t </br>
 Faster than 9350k in Single Core, </br>
 same in Multi-Thread. </br>
@@ -155,14 +151,12 @@ Slight improvement in Single Core, </br>
 Slight loss in Multi-Thread vs. i3-10100 No-T </br>
 
 ### 12th gen: </br>
-i3-12100T </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100t-vs-intel_core_2_quad_q9650 </br>
+[i3-12100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100t-vs-intel_core_2_quad_q9650) </br>
 Q9650 is 28% vs. in Single  </br>
 28% in Multi-Thread. "+3.57x" </br>
 T is a low power version, </br>
 
-i3-12100 "No-T" </br>
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100-vs-intel_core_2_quad_q9650 </br>
+[i3-12100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100-vs-intel_core_2_quad_q9650) "No-T" </br>
 Q9650 is 27%-28% in Single Core ~3.7x </br>
 21%-24% in Multi-Thread vs 4c+4t "4.16x" </br>
 Average 3.93x almost 4x. </br>
