@@ -31,7 +31,8 @@ same clock 3GHz as Q9650 </br>
 only has a small improvement +9% in Single Core, but has New AES instructions. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650 </br>
 Mult-core: i7-930 has a New technology: </br>
-HyperThreading, an improvement around ~25%, this case 27%. </br>
+HyperThreading, an improvement around ~25% in Multi-Threads, this case 27%. </br>
+but requires software to be compiled to take advantage of Multi-Threads. </br>
 Q9650 Single Core has a loss of 17% in Multi Core "All Cores." </br>
 i7-930 has a Net Gain of 103.2% in Multi-Thread "Single core clock loss in Multi-Core + Hyper Threading Gains." </br>
 
