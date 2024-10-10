@@ -96,8 +96,9 @@ but 10100T has lower power consumption and more performance. </br>
 HQ & T are Low Power versions. </br>
 Q9650 is ~50% performance, </br>
 [i7-7700HQ](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700hq-vs-intel_core_2_quad_q9650) & [i3-10100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100t-vs-intel_core_2_quad_q9650) </br>
-Both ~100% faster "2x" in Single core. </br>
-small clock boost: 3.8Ghz vs. 3Ghz = not really 100% faster if were running at same clock. </br>
+Both 100% faster "2x" in Single core. </br>
+small clock boost: </br>
+3.8Ghz vs. 3Ghz = Not really 100% faster, if were running at same clock speed. </br>
 
 [7700K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700k-vs-intel_core_2_quad_q9650) the fastest 4c/8t of the 7th Generation. </br>
 Q9650 is 38% vs. Single Core "2.63x" </br>
