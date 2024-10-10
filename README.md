@@ -51,8 +51,8 @@ Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
 ### Next Gen:  </br>
 MacPro 6,1 2013 Quad Core era. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_quad_q9650 </br>
-Q9650 is 54% in Single Core vs. E5-1620v2 </br>
-44% in Multi-Thread </br>
+Q9650 is 54% in Single Core vs. E5-1620v2 "85% improvement</br>
+44% in Multi-Thread, "2.27x improvement" </br>
 E5-1620v2 has Higher Power Consumption, </br>
 its an improved QX9770 136w "-6w" with New AES instructions like i7-930 / i7-975, </br>
 smaller Transistor 22nm vs. i7-930 45nm / i7-975 32nm 130w, </br>
