@@ -11,7 +11,7 @@ Q9650 "was the 3rd best", The fastest under 100w "The best overall", </br>
 QX9775 was the 1st, but 150w, small improvement, was about pushing the limits of that transistor size 45nm. </br>
 also QX9775 was the only that allowed multi-cpu boards. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
-775 was the last with Ping Grid Array CPUs. </br>
+775 was the last with Pin Grid Array CPUs. </br>
 There were many [chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets) for 775, Core2 Era & Core2Quad, the most notable: 975x, P45, X38, X48 </br>
 from 130nm to 65nm </br>
 
