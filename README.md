@@ -51,30 +51,30 @@ Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
 ### Next Gen:  </br>
 MacPro 6,1 2013 Quad Core era. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_quad_q9650 </br>
-Q9650 is 54% in Single Core vs. E5-1620v2 "85% improvement</br>
+Q9650 is 54% in Single core vs. E5-1620v2 "85% improvement"</br>
 44% in Multi-Thread, "2.27x improvement" </br>
-E5-1620v2 has Higher Power Consumption, </br>
+E5-1620v2 has Higher Power Consumption, 130w vs. 95w "a 36% power increse." </br>
 its an improved QX9770 136w "-6w" with New AES instructions like i7-930 / i7-975, </br>
 smaller Transistor 22nm vs. i7-930 45nm / i7-975 32nm 130w, </br>
 Quad-Channel Memory, Turbo mode and New AVX instructions, </br>
-but those improvements does Not translate to Big improvements in power consumption or performance. </br>
-Only a slightly higher Clock boost. </br>
+a slightly higher Clock boost. </br>
 3.9GHz vs. 3.2Ghz in QX9770 136w / QX9775 150w </br>
 3.6Ghz / 3.33Ghz in i7-975 130w </br>
 3Ghz in Q9650 95w. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_extreme_qx9770 </br>
-Qx9770 is 52% Single vs. E5-1620v2, </br>
-45% Multi. </br>
-or vs. QX9775 150w </br>
+Qx9770 is 52% Single vs. E5-1620v2 "+92%" </br>
+45% Multi-core a 2.22x increase in performance </br>
+vs. QX9775 150w </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_extreme_qx9775 </br>
-Q9775 is 53% Single Core vs. E5-1620v2 </br>
-45% Multi-Thread. </br>
+Q9775 is 53% Single Core vs. E5-1620v2 +88% performance increase,</br>
+45% Multi-Thread, also 2.22x </br>
+
 The Goal of the E5-v2 CPU was to combine 12-cores in a Single CPU, </br>
 previous generation LGA1366 required dual X5690 CPU's to have 12-Cores / 24-Threads in a single board, </br>
-previous pga775 required 2x QX9775 CPU's to have 8-cores in a single board. </br>
-but that was an improvement most people did Not see, </br>
-most software and operating systems are designed for Fast Dual-Core CPU's, </br>
-in my opinion a Quad-Core is the minimum system to run a single Virtual Machine, </br>
+previous pga775 required 2x QX9775 CPU's to have 8-cores in a single board, </br>
+but that was an improvement most people did Not see. </br>
+and most software & operating systems are designed for a Fast Dual-Core CPU. </br>
+in my opinion a Quad-Core is the minimum to run a single Virtual Machine, </br>
 a dual-core can do it, but performance will be severe compromised. </br>
 
 QX9775 & QX9770 have +1% & +2% increase Single core vs. Q9650,  </br>
@@ -82,14 +82,13 @@ with massive power consumption increase </br>
 +36% & +58%. </br>
 E5-1620v2 has +85% performance increase in Single core vs. Q9650, </br>
 with +43% power consumption, </br>
-but... 12-core CPU E5-v2 vs. dual 6-core X5690 CPUs had a [-50% power](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_2697_v2-vs-intel_core_i7_990x) reduction, same 130w, </br>
+but... 12-core E5-2697v2 CPU vs. dual 6-core X5690 CPUs had a [-50% power](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_2697_v2-vs-intel_core_i7_990x) reduction, same 130w, </br>
 with a Clock Frequency loss of: 2.70 GHz / 3.5 GHz "Turbo" vs. 3.46 GHz / 3.73 GHz (1-core) </br>
-improvement was Not a true -50% power consumption same clock speed vs. same clock speed. </br>
-E5-2697v2 has a slight performance boots +6.3% Single-Core with a lower clock speed vs. i7-990x / X5690 / W3590. </br>
+Not a -50% power consumption clock speed vs. clock speed. </br>
+but E5-2697v2 has a slight performance boot of +6.3% Single-Core with a lower clock speed vs. i7-990x / X5690 / W3590. </br>
 
-https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_1620_v2 </br>
-i7-975 is 82% Single-core vs. E5-1620v2 "E5v2 has +22% improvement" </br>
-79% Multi-core "+26.5% improvement" </br>
+[i7-975](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_1620_v2) is 82% Single-core vs. E5-1620v2 "E5v2 has 22% improvement" </br>
+79% Multi-core "26.5% improvement" </br>
 
 ### FastForward to 7th gen: </br>
 7700HQ = 10100T </br>
