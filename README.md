@@ -5,6 +5,10 @@ This Historic Study / Analisys of CPU processors, is focused around intel 4-core
 the idea is to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
 will ignore 13th gen & 14th gen because the [13th curse](https://en.wikipedia.org/wiki/Triskaidekaphobia) </br>
 New Ultra "15th gen"+A.I. will see.. TBU. </br>
+Improvement can be measured in different ways: </br>
+Clock vs. Clock: Performance gain at same clock speeds, </br>
+Power consumption: Watt vs. Watt, </br>
+New features vs. Features used by most people. </br>
 
 ### The LGA775 era: </br>
 Q9650 "was the 3rd best", The fastest under 100w "The best overall", </br>
