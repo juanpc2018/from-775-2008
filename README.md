@@ -16,14 +16,17 @@ There were many [chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#
 from 130nm to 65nm </br>
 
 ### Next Gen LGA1366 </br>
-There were many changes from 775 to 1366, most notable chipset: X58 </br>
+There were many changes from 775 to 1366, most notable chipset: [X58](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#LGA_1366,_LGA_2011,_and_LGA_2011-v3) / [5520](https://en.wikipedia.org/wiki/List_of_Intel_Xeon_chipsets#Dual_processor_Nehalem-based_Xeon_chipsets) </br>
 makes some PCI cards incompatible, like Digidesign 001 driver v6.4 </br>
-LGA1366 also introduced Tripple Channel DDR3 memory, </br>
+LGA1366 also introduced Tripple Channel DDR3 memory, many boards had issues broken traces, </br>
+because pcb routing complexity "many layers & 1366 traces" combined with a socket mount pressure that does Not have a stop, </br>
+many CPUs screws could be over tightened, over screwed / squashing the PCB. </br>
 some PGA775 had DDR3 but Dual-Channel. </br>
-Turbo v1.0 mode introduced in lga1366 </br>
+i think Turbo v1.0 mode was also introduced in lga1366 </br>
+Virtaulization became standard, in 775 was optional. </br>
 
-i7-930 / W3530 / X5630  </br>
-X version allowed multi 
+#### i7-930 / W3530 / X5630  </br>
+X version combined with 5500 / 5520 chipset allowed boards with multi cpus </br>
 same clock 3GHz as Q9650 </br>
 only has a small improvement +9% in Single Core, but has New AES instructions. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650 </br>
