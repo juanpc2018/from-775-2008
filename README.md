@@ -9,10 +9,21 @@ New Ultra "15th gen"+A.I. will see.. TBU. </br>
 ### The LGA775 era: </br>
 Q9650 "was the 3rd best", The fastest under 100w "The best overall", </br>
 QX9775 was the 1st, but 150w, small improvement, was about pushing the limits of that transistor size 45nm. </br>
+also QX9775 was the only that allowed multi-cpu. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
+775 was the last with Ping Grid Array CPUs. </br>
+There were many [chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets) for 775, Core2 Era & Core2Quad, the most notable: 975x, P45, X38, X48 </br>
+from 130nm to 65nm </br>
 
 ### Next Gen LGA1366 </br>
+There were many changes from 775 to 1366, most notable chipset: X58 </br>
+makes some PCI cards incompatible, like Digidesign 001 driver v6.4 </br>
+LGA1366 also introduced Tripple Channel DDR3 memory, </br>
+some PGA775 had DDR3 but Dual-Channel. </br>
+Turbo v1.0 mode introduced in lga1366 </br>
+
 i7-930 / W3530 / X5630  </br>
+X version allowed multi 
 same clock 3GHz as Q9650 </br>
 only has a small improvement +9% in Single Core, but has New AES instructions. </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650 </br>
@@ -30,12 +41,6 @@ slight clock boost, 3.6GHz vs. 3GHz. </br>
 In Multi-core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
 Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
 4cores vs. 4c+4t "8-threads" </br>
-
-There were many changes from 775 to 1366 </br>
-makes some PCI cards incompatible, like Digidesign 001 driver v6.4 </br>
-LGA1366 also introduced Tripple Channel DDR3 memory, </br>
-some PGA775 had DDR3 but Dual-Channel. </br>
-Turbo v1.0 mode introduced in lga1366 </br>
 
 ### Next Gen:  </br>
 MacPro 6,1 2013 Quad Core era. </br>
