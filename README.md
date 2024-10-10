@@ -79,7 +79,7 @@ with massive power consumption increase </br>
 +36% & +58%. </br>
 E5-1620v2 has +85% performance increase in Single core vs. Q9650, </br>
 with +43% power consumption, </br>
-but... 12-version E5-v2 vs. dual 6-core X5690 lga1366 had a [-50% power](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_2697_v2-vs-intel_core_i7_990x) consumption, same 130w. </br>
+but... 12-core CPU E5-v2 vs. dual 6-core X5690 CPUs had a [-50% power](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_2697_v2-vs-intel_core_i7_990x) reduction, same 130w. </br>
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_1620_v2 </br>
 i7-975 is 82% Single-core vs. E5-1620v2 "E5v2 has +22% improvement" </br>
