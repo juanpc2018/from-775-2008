@@ -23,7 +23,8 @@ because pcb routing complexity "many layers & 1366 traces" combined with a socke
 many Heatsink screws could be over tightened, or screwed uneven, squashing & bending the PCB, </br>
 Boards that had Tripple Channel "6x memory slots" most only worked Dual-Channel "4-slots" with out errors in Memtest86+</br>
 Windows Memory Diagnostic did Not detected memory errors in Tripple channel memory. </br>
-some 775 had DDR3 but Dual-Channel, MacPro 4,1 / 5,1 (2009 / 2010 / 2012) lga1366 had Dual-Channel design. </br>
+some 775 had DDR3 but Dual-Channel, </br>
+MacPro 4,1 / 5,1 (2009 / 2010 / 2012) lga1366 also had Dual-Channel design. </br>
 i think Turbo v1.0 mode was also introduced in lga1366 </br>
 Virtualization became standard, in 775 was optional. </br>
 
