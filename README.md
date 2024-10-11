@@ -5,7 +5,8 @@ This Historic Study / Analisys of CPU processors, is focused around intel 4-core
 the idea is to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
 will ignore older gens because there was No Quad-cores from intel, </br>
 Apple did had G5 Quad-core in (2005), but was 2x PPC6 Dual-core 970MP CPU's, Not a single Quad-core, </br>
-its possible to measure performance between architectures, using software like Whetstones, Dhrystones, or Cinebench 2003 G5 optimized, to get an idea </br>
+its possible to measure performance between different architectures & OS </br>
+using software: like Whetstones, Dhrystones, or Cinebench 2003 G5 optimized vs. Win, to get an idea </br>
 also will ignore [13th & 14th gen](https://www.intel.com/content/www/us/en/support/articles/000099569/processors.html) because the [13th curse](https://en.wikipedia.org/wiki/Triskaidekaphobia) </br>
 New Ultra "15th gen"+A.I. will see... </br>
 
