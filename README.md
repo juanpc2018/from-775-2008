@@ -163,7 +163,7 @@ Q9650 is 28% vs. in Single  </br>
 28% in Multi-Thread. "+3.57x" </br>
 T is a low power version, </br>
 
-[i3-12100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100-vs-intel_core_2_quad_q9650) "No-T" </br>
+[i3-12100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100-vs-intel_core_2_quad_q9650) No-T </br>
 Q9650 is 27%-28% in Single Core ~3.7x </br>
 21%-24% in Multi-Thread vs 4c+4t "4.16x" </br>
 Average 3.93x almost 4x. </br>
