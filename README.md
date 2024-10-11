@@ -85,7 +85,7 @@ also a Quad-core has enough low power consumption for everyday use, Browsing int
 more cores is only required for High-demanding tasks, like CPU video encoding / transcoding h.264 h.265 video editing, etc... </br>
 but video capture and encoding is better with a capture card that has dedicated DSP. </br>
 
-QX9775 & QX9770 have +1% & +2% increase Single core vs. Q9650,  </br>
+QX9775 & QX9770 have +1% & +2% performance increase in Single-core vs. Q9650  </br>
 with massive power consumption increase </br>
 +36% & +58%. </br>
 E5-1620v2 has +85% performance increase in Single core vs. Q9650, </br>
