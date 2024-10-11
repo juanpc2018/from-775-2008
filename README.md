@@ -121,6 +121,9 @@ small clock boost: </br>
 [7700K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700k-vs-intel_core_2_quad_q9650) the fastest 4c/8t of the 7th Generation. </br>
 Q9650 is 38% vs. Single Core "2.63x Faster" </br>
 Multi-Thread is 29%-33% 4c+4t "8t" 3.22x Faster. </br>
+some Z270 & Z370 boards were the last that had PCI slots built-in, </br>
+after that requires a PCIe to PCI adapter card or chassis. </br>
+Z270/Z370 were Not Direct PCI to CPU, had a Bridge IC built-in, same as a PCIe to PCI card. </br>
 
 ### Around 7th & 8th gen:  </br>
 MacPro 2019 with [W-32xx CPUs](https://github.com/juanpc2018/Best-CPUs-for-LGA-3647) similar to Gold 61xx 62xx </br>
