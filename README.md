@@ -61,7 +61,7 @@ In Multi-core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
 Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
 4-cores vs. 4c+4t "8-threads" </br>
 
-There was a Faster 2-core [X5698](https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%20X5698%20-%20AT80614007314AA.html) </br>
+There was a Faster 2-core [X5698](https://www.cpu-world.com/Compare/875/Intel_Xeon_X5687_vs_Intel_Xeon_X5698.html) </br>
 very rare. </br>
 
 ### Next Gen:  </br>
