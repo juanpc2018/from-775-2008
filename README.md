@@ -94,8 +94,8 @@ with a Clock Frequency loss of: 2.70 GHz / 3.5 GHz "Turbo" vs. 3.46 GHz / 3.73 G
 Not a -50% power consumption clock speed vs. clock speed. </br>
 but E5-2697v2 has a slight performance boost of +6.3% Single-core with lower clock speed vs. i7-990x / X5690 / W3690. </br>
 
-[i7-975](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_1620_v2) is 82% Single-core vs. E5-1620v2 "E5v2 has 22% improvement" </br>
-79% Multi-core "26.5% improvement" </br>
+[i7-975](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_xeon_e5_1620_v2) is 82% Single-core of an E5-1620v2 "E5-v2 has 22% improvement" </br>
+79% Multi-core of an E5-1620v2 = 26.5% improvement. </br>
 
 ### FastForward to 7th gen: </br>
 [7700HQ = 10100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700hq-vs-intel_core_i3_10100t) same clock speeds 3.8Ghz, </br>
