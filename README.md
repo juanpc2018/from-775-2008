@@ -119,8 +119,8 @@ small clock boost: </br>
 3.8Ghz vs. 3Ghz = Not really 100% faster, if were running at same clock speed. </br>
 
 [7700K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_7700k-vs-intel_core_2_quad_q9650) the fastest 4c/8t of the 7th Generation. </br>
-Q9650 is 38% vs. Single Core "2.63x" </br>
-Multi-Thread is 29%-33% 4c+4t "8t" 3.22x </br>
+Q9650 is 38% vs. Single Core "2.63x Faster" </br>
+Multi-Thread is 29%-33% 4c+4t "8t" 3.22x Faster. </br>
 
 ### Around 7th & 8th gen:  </br>
 MacPro 2019 with [W-32xx CPUs](https://github.com/juanpc2018/Best-CPUs-for-LGA-3647) similar to Gold 61xx 62xx </br>
