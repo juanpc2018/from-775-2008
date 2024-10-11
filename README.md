@@ -23,7 +23,7 @@ QX9775 was the 1st, but 150w, small improvement, was about pushing the limits. <
 QX9775 was the only that allowed multi-cpu boards. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
 
-There were many [chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets) for 775, Core2 & Core2Quad Era, the most notable: 975x, P45, X38, X48 </br>
+There were many [chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets) for 775, Core2 & Core2Quad, the most notable: 975x, P45, X38, X48 </br>
 chipset transistor size from 130nm to 65nm, behind CPU 45nm, using older Fabs to make chipsets, New Fabs to make CPUs </br>
 Everybody wish both were the same. </br>
 
