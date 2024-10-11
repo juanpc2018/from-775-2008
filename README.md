@@ -30,7 +30,7 @@ Everybody wish both were the same. </br>
 ### Next Gen LGA1366 </br>
 There were many changes from 775 to 1366, most notable chipset: [X58](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#LGA_1366,_LGA_2011,_and_LGA_2011-v3) / [5520](https://en.wikipedia.org/wiki/List_of_Intel_Xeon_chipsets#Dual_processor_Nehalem-based_Xeon_chipsets) </br>
 makes some PCI cards incompatible, like Digidesign 001 driver v6.4 </br>
-LGA1366 "Land Grid Aray" also introduced Tripple Channel DDR3 memory, many boards had issues broken traces, </br>
+LGA1366 "Land Grid Array" also introduced Tripple Channel DDR3 memory, many boards had issues broken traces, </br>
 because pcb routing complexity "many layers & 1366 traces" combined with a socket mount pressure that does Not have a stop, </br>
 many Heatsink screws could be over tightened, or screwed uneven, squashing & bending the PCB, there were No mounting plates, </br>
 Boards that had Tripple Channel "6x memory slots" most only worked Dual-Channel "4-slots" without errors in Memtest86+</br>
