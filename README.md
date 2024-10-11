@@ -3,9 +3,10 @@
 
 This Historic Study / Analisys of CPU processors, is focused around intel 4-core CPUs, </br>
 the idea is to have a clear view of the improvement of similar CPUs since socket 775 "2008" </br>
-will ignore older generations because there was No Quad-cores from intel, Apple had G5 Quad in (2005), but was 2x PPC6 Dual-core 970MP CPU's, </br>
-[13 & 14 gen](https://www.intel.com/content/www/us/en/support/articles/000099569/processors.html) because the [13th curse](https://en.wikipedia.org/wiki/Triskaidekaphobia) </br>
-New Ultra "15th gen"+A.I. will see.. </br>
+will ignore older gens because there was No Quad-cores from intel, </br>
+Apple did had G5 Quad-core in (2005), but was 2x PPC6 Dual-core 970MP CPU's, Not a single Quad-core, </br>
+also will ignore [13th & 14th gen](https://www.intel.com/content/www/us/en/support/articles/000099569/processors.html) because the [13th curse](https://en.wikipedia.org/wiki/Triskaidekaphobia) </br>
+New Ultra "15th gen"+A.I. will see... </br>
 
 Improvement can be measured in different ways: </br>
 Clock vs. Clock: Performance gain at same clock speeds, </br>
