@@ -209,4 +209,4 @@ a New re release CPU's with smaller transistors, but pin compatible with older b
 Anniversary Editions. </br>
 Reissue CPUs would require built-in Voltage Regulators and Shifters to work in older boards, </br>
 same microcode as old CPUs so BIOS can detect it and Board does Not require a New Bios. </br>
-level shifters would increase latency, losing performance gains. </br>
+but level shifters would increase latency, losing performance gains. </br>
