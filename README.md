@@ -36,7 +36,7 @@ many Heatsink screws could be over tightened, or screwed uneven, squashing & ben
 Boards that had Tripple Channel "6x memory slots" most only worked Dual-Channel "4-slots" without errors in Memtest86+</br>
 Windows Memory Diagnostic did Not detect memory errors in Tripple channel memory. </br>
 some 775 had DDR3 but Dual-Channel, </br>
-MacPro 4,1 / 5,1 (2009 / 2010 / 2012) lga1366 also had Dual-Channel design. </br>
+MacPro 4,1 / 5,1 2009 / 2010 / 2012 lga1366 also had Dual-Channel design. </br>
 [TurboBoost v1.0](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) was introduced in (2008) lga1366 </br>
 Virtualization became standard, in 775 was optional. </br>
 
