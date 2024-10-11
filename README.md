@@ -50,7 +50,7 @@ Windows8.1 required True [MPS 1.4](https://en.wikipedia.org/wiki/MultiProcessor_
 Multi-core: i7-930 has a New technology: </br>
 HyperThreading, an improvement around ~25% in most CPU's, this case 27%. </br>
 but requires software to be compiled to take advantage of Multi-Threads. </br>
-Q9650 Single Core has a loss of -17% in Multi-Core "All Cores." </br>
+Q9650 Single-core has a loss of -17% in Multi-Core "All Cores." </br>
 i7-930 has a Net Gain of 103.2% in Multi-Thread "Single core loss in Multi-Core + Hyper Threading Gain." </br>
 
 ### The fastest 4-core of the LGA1366 era: </br>
