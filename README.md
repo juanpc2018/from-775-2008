@@ -131,8 +131,8 @@ most gamer boards have limited PCIe lanes,  </br>
 Not designed for adding more PCIe cards without halving speed, </br>
 
 [i3-8350K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_8350k-vs-intel_core_2_quad_q9650) the fastest of the 8th gen, No HyperThreading. </br>
-Q9650 is 40% vs. single core "2.5x faster" </br>
-40% vs. Multi-Core same 4c vs, 4c No HT. </br>
+Q9650 is 40% vs. single core "2.5x Faster" </br>
+40% vs. Multi-Core same 4c vs, 4c No HT, "2.5x Faster" </br>
 14nm vs. 45nm </br>
 same Monolithic design </br>
 2008 vs. 2017 </br>
@@ -143,18 +143,19 @@ slight power saving with drastic performance increase, </br>
 ### 9th gen </br>
 [i3-9350K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_9350k-vs-intel_core_2_quad_q9650) </br>
 same power vs. 8350K = 91w </br>
+91w vs. 95w Q9650
 but... </br>
-Q9650 is 37% in Single Core "-3%" </br>
-33% "-7%" in Multi-Core. </br>
+Q9650 is 37% of a 9350k in Single Core "2.7x Faster" </br>
+33% "3x Faster" in Multi-Core. </br>
 
 ### 10th gen </br>
 [i3-10100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100-vs-intel_core_2_quad_q9650) No-T, the fastest 4c + HT = "8t" </br>
-Q9650 is 40% Single-core = same vs. 8350K, </br>
-i3-9350K is faster +3% in Single Core,  </br>
-but i3-10100 power consumption is much lower. </br>
-65w = -26w "Big Power Efficiency improvement" </br>
-31% Multi-Thread, 10100 Non-T is faster in Multi-Thread because has HyperThreading vs. 8350k and 9350k. </br>
-its a side improvement. </br>
+Q9650 is 40% of 10100 in Single-core, 2.5x Faster, same vs. 8350K </br>
+i3-9350K is faster 2.7x "+3%" in Single Core,  </br>
+but i3-10100 power consumption is much lower, </br>
+65w vs. 95w = -26w "Big improvement in Power Efficiency" </br>
+31% in Multi-Thread "3.22x Faster",</br>
+10100 is faster in Multi-Thread because has HyperThreading vs. 8350k & 9350k. </br>
 
 ### 11th gen </br>
 [i3-1110B](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_11100b-vs-intel_core_2_quad_q9650) </br>
@@ -164,6 +165,11 @@ same in Multi-Thread. </br>
 much lower power consumption vs 91w 9350k, same 65w vs. 10100 No-T </br>
 Slight improvement in Single Core, Big improvement in power consumption </br>
 Slight loss in Multi-Thread vs. i3-10100 No-T </br>
+
+intel integrated GPUs stop supporting Legacy boot mode in 12th gen, </br>
+11th gen* Unconfirmed </br>
+10th gen is the last iGPU that supports legacy boot mode. </br>
+for example: Windows 8.1 USB Recovery does Not boot in 12th gen iGPUs, requires a real GPU. </br>
 
 ### 12th gen: </br>
 [i3-12100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100t-vs-intel_core_2_quad_q9650) </br>
