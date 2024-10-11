@@ -120,7 +120,7 @@ W- CPUs are the server version of the 8th gen, with slightly lower clock speeds,
 but ECC memory, and much more PCIe lanes. </br>
 older boards like 975x "high end" had 1x PCIe x16 or 2x PCIe x8 "16-lanes" </br>
 X48 boards had 2x PCIe x16, "32 lanes" </br>
-most gamer boards have a limited PCIe lanes,  </br>
+most gamer boards have limited PCIe lanes,  </br>
 Not designed for adding more PCIe cards without halving speed, </br>
 
 [i3-8350K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_8350k-vs-intel_core_2_quad_q9650) the fastest of the 8th gen, No HyperThreading. </br>
