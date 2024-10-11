@@ -26,7 +26,7 @@ There were many changes from 775 to 1366, most notable chipset: [X58](https://en
 makes some PCI cards incompatible, like Digidesign 001 driver v6.4 </br>
 LGA1366 "Land Grid Aray" also introduced Tripple Channel DDR3 memory, many boards had issues broken traces, </br>
 because pcb routing complexity "many layers & 1366 traces" combined with a socket mount pressure that does Not have a stop, </br>
-many Heatsink screws could be over tightened, or screwed uneven, squashing & bending the PCB, </br>
+many Heatsink screws could be over tightened, or screwed uneven, squashing & bending the PCB, there were No mounting plates, </br>
 Boards that had Tripple Channel "6x memory slots" most only worked Dual-Channel "4-slots" with out errors in Memtest86+</br>
 Windows Memory Diagnostic did Not detected memory errors in Tripple channel memory. </br>
 some 775 had DDR3 but Dual-Channel, </br>
