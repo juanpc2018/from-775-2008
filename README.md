@@ -67,7 +67,7 @@ Quad-Channel Memory, Turbo mode and New AVX instructions, </br>
 a slightly higher Clock boost. </br>
 3.9GHz vs. 3.2Ghz in QX9770 136w / QX9775 150w </br>
 3.6Ghz / 3.33Ghz in i7-975 130w </br>
-3Ghz in Q9650 95w. </br>
+3Ghz in Q9650 95w / [i7-930](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650) 130w. </br>
 [QX9770](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_extreme_qx9770) is 52% Single vs. E5-1620v2 "+92%" </br>
 45% Multi-core a 2.22x increase in performance </br>
 vs. QX9775 150w </br>
