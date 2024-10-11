@@ -175,24 +175,27 @@ but Boots ok in 10th Gen iGPUs or older. </br>
 
 ### 12th gen: </br>
 [i3-12100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100t-vs-intel_core_2_quad_q9650) </br>
-Q9650 is 28% vs. in Single  </br>
+in Single Q9650 is 28% vs. i3-12100T "3.57x Faster"  </br>
 28% in Multi-Thread. "+3.57x" </br>
 T is a low power version, </br>
 
 [i3-12100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100-vs-intel_core_2_quad_q9650) No-T </br>
-Q9650 is 27%-28% in Single Core ~3.7x </br>
-21%-24% in Multi-Thread vs 4c+4t "4.16x" </br>
-Average 3.93x almost 4x. </br>
+Q9650 is 27%-28% in Single Core 3.57x-3.7x Faster </br>
+21%-24% in Multi-Thread vs 4c+4t "4.16x-4.76x Faster" </br>
 with 60w vs. 95w </br>
 10nm vs. 45nm </br>
-Newer SSE4.2, AVX2, AVX2+ instructions that boost performance in software updated with compilers designed for those instructions. </br>
+Newer SSE4.2, AVX2, AVX2+ instructions that boost performance in SW updated with compilers designed for those instructions. </br>
 
 a reduction from 45nm to 10nm "4.5:1" </br>
 did Not bring an improvement of "4.5x" in Single-core</br>
 with a power reduction of 50%, was close 63% 3.7x. </br>
 In Theory Power consumption reduction should be 1/4.5 = 21.1w, Not 60w </br>
-But... New CPU's have New instructions, New circuits, More Cache, Increased complexity, Higher Clock, that increase power consumption. </br>
-Not a direct comparison. </br>
+But... </br>
+New CPU's have New instructions, New circuits, HyperThreading, Faster Clock, Bigger Cache, Increased complexity </br>
+All add-ons / hop-ups increase power consumption. </br>
+Not possible a direct comparison. </br>
+Z790 EFI allows to dissable AVX & HyperThreading, to make a more Direct comparison, </br>
+but performance will be reduced in multi-thread. </br>
 
 improvement limits reason probably is the [Black Silicon](https://semiengineering.com/knowledge_centers/low-power/techniques/dark-silicon/) areas "Dead Silicon" </br>
 1/3 "33.3%" in 20nm upto 80% in 5nm. </br>
