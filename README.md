@@ -200,6 +200,8 @@ but performance will be reduced in multi-thread. </br>
 improvement limits reason probably is the [Black Silicon](https://semiengineering.com/knowledge_centers/low-power/techniques/dark-silicon/) areas "Dead Silicon" </br>
 1/3 "33.3%" in 20nm upto 80% in 5nm. </br>
 
-as a side Note, the nightmare of Board manufacturers is the dream of vintage collectors, </br>
+as a side Note, the dream of vintage collectors is the nightmare of Board manufacturers, </br>
 a New re release CPU's with smaller transistors, but pin compatible with older boards. </br>
 Anniversary Editions. </br>
+Reissue CPUs would require built-in Voltage Regulators and Shifters to work in older boards, </br>
+same microcode as old CPUs so BIOS can detect it and Board does Not require a New Bios. </br>
