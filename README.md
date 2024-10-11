@@ -17,8 +17,8 @@ New features vs. Features used by most people. </br>
 Transistor size/design: nanometer vs. nanometer. </br>
 
 ### The LGA775 era: </br>
-pga478 was the last with Pin-Grid-Array CPU's, 775 was the 1st with LGA "Land Grid Array".</br>
-Probably Q6600 was the most popular, but... Q9650 was the 3rd best, The fastest under 100w "The Best Overall", </br>
+pga478 CPU's were the last with Pin-Grid-Array, 775 were the 1st with LGA "Land Grid Array".</br>
+Probably Q6600 was the most popular CPU, Q9650 was 3rd best, The fastest under 100w "The Best Overall", </br>
 QX9775 was the 1st, but 150w, small improvement, was about pushing the limits. </br>
 QX9775 was the only that allowed multi-cpu boards. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
