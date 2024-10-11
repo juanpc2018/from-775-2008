@@ -90,7 +90,7 @@ that was an improvement most people did Not see. </br>
 most software & operating systems are designed for a Fast Dual-Core CPU. </br>
 in my opinion a Quad-core is the minimum to run a single Virtual Machine, </br>
 a Dual-core can do it, but performance will be severe compromised. </br>
-also a Quad-core has enough low power consumption for everyday use, Browsing internet, IP security cameras, etc... </br>
+also Quad-core has enough low power consumption for everyday use, Browsing internet, IP security cameras, etc... </br>
 more cores is only required for High-demanding tasks, like CPU video encoding / transcoding h.264 h.265 video editing, etc... </br>
 but video capture and encoding is better with a capture card that has dedicated DSP. </br>
 
