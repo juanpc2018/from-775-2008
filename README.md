@@ -157,10 +157,10 @@ its a side improvement. </br>
 ### 11th gen </br>
 [i3-1110B](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_11100b-vs-intel_core_2_quad_q9650) </br>
 Q9650 is 33% both Single core & Multi Thread 4c+HT= 8t </br>
-Faster than 9350k in Single Core, </br>
+10% Faster [vs. 9350k](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_11100b-vs-intel_core_i3_9350k) in Single Core, </br>
 same in Multi-Thread. </br>
-65w same as 10100 No-T </br>
-Slight improvement in Single Core, </br>
+much lower power consumption vs 91w 9350k, same 65w vs. 10100 No-T </br>
+Slight improvement in Single Core, Big improvement in power consumption </br>
 Slight loss in Multi-Thread vs. i3-10100 No-T </br>
 
 ### 12th gen: </br>
