@@ -61,8 +61,7 @@ In Multi-core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
 Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
 4-cores vs. 4c+4t "8-threads" </br>
 
-There was a Faster 2-core [X5698](https://www.cpu-world.com/Compare/875/Intel_Xeon_X5687_vs_Intel_Xeon_X5698.html) </br>
-very rare. </br>
+There was a Faster 2-core [X5698](https://www.cpu-world.com/Compare/875/Intel_Xeon_X5687_vs_Intel_Xeon_X5698.html) very rare. </br>
 X5687 & X5698 were Not compatible with MacPro 5,1 2010-2012, seems CPU Tray does Not have enough clock multipliers. </br>
 
 ### Next Gen:  </br>
