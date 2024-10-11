@@ -37,7 +37,7 @@ Virtualization became standard, in 775 was optional. </br>
 #### i7-930 / W3530 / X5630  </br>
 X version combined with 5500 / 5520 chipset allowed boards with multi-cpus, also ECC Memory </br>
 [i7-930](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_930-vs-intel_core_2_quad_q9650) has same clock 3GHz as Q9650 </br>
-has a small improvement of +9% in Single-core, but has New AES instructions, required by some software like Avid Composer 8.4 (2015) </br>
+small improvement of +9% in Single-core, but has New AES instructions required by some software like Avid Composer 8.4 (2015) </br>
 Multi-core: i7-930 has a New technology: </br>
 HyperThreading, an improvement around ~25% in most CPU's, this case 27%. </br>
 but requires software to be compiled to take advantage of Multi-Threads. </br>
