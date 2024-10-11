@@ -14,7 +14,7 @@ Improvement can be measured in different ways: </br>
 Clock vs. Clock: Performance gain at same clock speeds, </br>
 Watt vs. Watt, Performance gain at same Watts. </br>
 New features vs. Features used by most people. </br>
-nanometer vs. nanometer, Transistor size/design. </br>
+nanometer vs. nanometer: Transistor size/design. </br>
 
 ### The LGA775 era: </br>
 pga478 CPU's were the last with Pin-Grid-Array, 775 were the 1st with LGA "Land Grid Array".</br>
