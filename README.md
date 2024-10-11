@@ -86,7 +86,7 @@ vs. QX9775 150w </br>
 The Goal of the E5-v2 CPU was to combine 12-cores in a Single CPU, </br>
 previous generation LGA1366 required dual X5690 CPU's to have 12-Cores / 24-Threads in a single board, </br>
 previous 775 required 2x QX9775 CPU's to have 8-cores in a single board, </br>
-but that was an improvement most people did Not see. </br>
+that was an improvement most people did Not see. </br>
 most software & operating systems are designed for a Fast Dual-Core CPU. </br>
 in my opinion a Quad-core is the minimum to run a single Virtual Machine, </br>
 a Dual-core can do it, but performance will be severe compromised. </br>
