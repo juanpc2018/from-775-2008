@@ -169,7 +169,9 @@ Slight loss in Multi-Thread vs. i3-10100 No-T </br>
 intel integrated GPUs stop supporting Legacy boot mode in 12th gen, </br>
 11th gen* Unconfirmed </br>
 10th gen is the last iGPU that supports legacy boot mode. </br>
-for example: Windows 8.1 USB Recovery does Not boot in 12th gen iGPUs, requires a real GPU. </br>
+for example: </br>
+Windows 8.1 USB Recovery does Not boot in 12th gen iGPUs, requires a real GPU, </br>
+but Boots ok in 10th Gen iGPUs or older. </br>
 
 ### 12th gen: </br>
 [i3-12100T](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100t-vs-intel_core_2_quad_q9650) </br>
