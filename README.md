@@ -14,7 +14,7 @@ Improvement can be measured in different ways: </br>
 Clock vs. Clock: Performance gain at same clock speeds, </br>
 Watt vs. Watt, Performance gain at same Watts. </br>
 New features vs. Features used by most people. </br>
-transistor size: nanometer vs. nanometer. </br>
+Transistor size/design: nanometer vs. nanometer. </br>
 
 ### The LGA775 era: </br>
 Probably Q6600 was the most popular, but... Q9650 was the 3rd best, The fastest under 100w "The Best Overall", </br>
