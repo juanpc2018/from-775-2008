@@ -61,7 +61,7 @@ very rare. </br>
 ### Next Gen:  </br>
 MacPro 6,1 2013 Quad Core era. </br>
 [E5-1620v2](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_1620_v2-vs-intel_core_2_quad_q9650) </br>
-Q9650 is 54% in Single core vs. E5-1620v2 "85% improvement"</br>
+In Single-core: Q9650 is 54% of an E5-1620v2 "85% improvement"</br>
 44% in Multi-Thread, "2.27x improvement" </br>
 E5-1620v2 has Higher Power Consumption, 130w vs. 95w "a 36% power increse." </br>
 its an improved QX9770 136w "-6w" with New AES instructions like i7-930 / i7-975, </br>
