@@ -16,7 +16,7 @@ Probably Q6600 was the most popular, but... Q9650 was the 3rd best, The fastest 
 QX9775 was the 1st, but 150w, small improvement, was about pushing the limits. </br>
 QX9775 was the only that allowed multi-cpu boards. </br>
 QX9770 was the 2nd but 136w, the power target for 4th next generations. </br>
-478 was the last with Pin Grid Array CPU, 775 was the 1st with LGA "Land Grid Array".</br>
+pga478 was the last with Pin Grid Array CPU, 775 was the 1st with LGA "Land Grid Array".</br>
 There were many [chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets) for 775, Core2 Era & Core2Quad, the most notable: 975x, P45, X38, X48 </br>
 chipset transistor size from 130nm to 65nm, behind CPU 45nm, using older Fabs to make chipsets, New Fabs to make CPUs </br>
 everybody wished both were the same. </br>
