@@ -112,7 +112,7 @@ Q9650 is 38% vs. Single Core "2.63x" </br>
 Multi-Thread is 29%-33% 4c+4t "8t" 3.22x </br>
 
 ### Around 7th & 8th gen:  </br>
-MacPro 2019 with W-35xx CPUs, similar to Gold 61xx 62xx </br>
+MacPro 2019 with [W-35xx CPUs](https://github.com/juanpc2018/Best-CPUs-for-LGA-3647) similar to Gold 61xx 62xx </br>
 W- CPUs are the server version of the 8th gen, with slightly lower clock speeds,  </br>
 but ECC memory, and much more PCIe lanes. </br>
 older boards like 975x "high end" had 1x PCIe x16 or 2x PCIe x8 "16-lanes" </br>
