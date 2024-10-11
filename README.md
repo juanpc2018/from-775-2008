@@ -146,17 +146,17 @@ Q9650 is 37% in Single Core "-3%" </br>
 33% "-7%" in Multi-Core. </br>
 
 ### 10th gen </br>
-[i3-10100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100-vs-intel_core_2_quad_q9650) No-T, the fastest 4c + HT "4t" </br>
-Q9650 is 40% Single-core = same vs. 8350K,  </br>
+[i3-10100](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_10100-vs-intel_core_2_quad_q9650) No-T, the fastest 4c + HT = "8t" </br>
+Q9650 is 40% Single-core = same vs. 8350K, </br>
 i3-9350K is faster +3% in Single Core,  </br>
 but i3-10100 power consumption is much lower. </br>
 65w = -26w "Big Power Efficiency improvement" </br>
-31% Multi-Thread, 10100 Non-T is faster in Multi-Thread because has Hyper Threading vs. 8350k and 9350k. </br>
+31% Multi-Thread, 10100 Non-T is faster in Multi-Thread because has HyperThreading vs. 8350k and 9350k. </br>
 its a side improvement. </br>
 
 ### 11th gen </br>
 [i3-1110B](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_11100b-vs-intel_core_2_quad_q9650) </br>
-Q9650 is 33% both Single core or Multi Thread 4c+4t </br>
+Q9650 is 33% both Single core & Multi Thread 4c+HT= 8t </br>
 Faster than 9350k in Single Core, </br>
 same in Multi-Thread. </br>
 65w same as 10100 No-T </br>
