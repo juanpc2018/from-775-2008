@@ -169,8 +169,12 @@ with 60w vs. 95w </br>
 Newer SSE4.2, AVX2, AVX2+ instructions that boost performance in software updated with compilers designed for those instructions. </br>
 
 a reduction from 45nm to 10nm "4.5:1" </br>
-did Not bring an improvement of "4.5x" Single core</br>
+did Not bring an improvement of "4.5x" in Single-core</br>
 with a power reduction of 50%, was close 55% 3.7x. </br>
+The power consumption reduction should be 1/4.5 = 21.1w, Not 60w </br>
+But... New CPU's have New instructions, New circuits, More Cache, Increased complexity, that increase power consumption </br>
+Not a direct comparison. </br>
+
 the reason probably is the [Black Silicon](https://semiengineering.com/knowledge_centers/low-power/techniques/dark-silicon/) areas "Dead Silicon" </br>
 1/3 "33.3%" in 20nm upto 80% in 5nm. </br>
 
