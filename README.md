@@ -34,7 +34,7 @@ LGA1366 "Land Grid Array" also introduced Tripple Channel DDR3 memory, many boar
 because pcb routing complexity "many layers & 1366 traces" combined with a socket mount pressure that does Not have a stop, </br>
 many Heatsink screws could be over tightened, or screwed uneven, squashing & bending the PCB, there were No mounting plates, </br>
 Boards that had Tripple Channel "6x memory slots" most only worked Dual-Channel "4-slots" without errors in Memtest86+</br>
-Windows Memory Diagnostic did Not detected memory errors in Tripple channel memory. </br>
+Windows Memory Diagnostic did Not detect memory errors in Tripple channel memory. </br>
 some 775 had DDR3 but Dual-Channel, </br>
 MacPro 4,1 / 5,1 (2009 / 2010 / 2012) lga1366 also had Dual-Channel design. </br>
 [TurboBoost v1.0](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) was introduced in (2008) lga1366 </br>
