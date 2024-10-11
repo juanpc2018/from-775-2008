@@ -201,7 +201,7 @@ Not possible a direct comparison. </br>
 Z790 EFI allows to dissable AVX & HyperThreading, to make a more Direct comparison, </br>
 but performance will be reduced in multi-thread. </br>
 
-improvement limits reason probably is the [Black Silicon](https://semiengineering.com/knowledge_centers/low-power/techniques/dark-silicon/) areas "Dead Silicon" </br>
+improvement limit reason probably is the [Black Silicon](https://semiengineering.com/knowledge_centers/low-power/techniques/dark-silicon/) areas "Dead Silicon" </br>
 1/3 "33.3%" in 20nm upto 80% in 5nm. </br>
 
 as a side Note, the dream of vintage collectors is the nightmare of Board manufacturers, </br>
