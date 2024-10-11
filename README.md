@@ -37,7 +37,7 @@ Boards that had Tripple Channel "6x memory slots" most only worked Dual-Channel 
 Windows Memory Diagnostic did Not detected memory errors in Tripple channel memory. </br>
 some 775 had DDR3 but Dual-Channel, </br>
 MacPro 4,1 / 5,1 (2009 / 2010 / 2012) lga1366 also had Dual-Channel design. </br>
-i think Turbo v1.0 mode was also introduced in lga1366 </br>
+[TurboBoost v1.0](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) was introduced in (2008) lga1366 </br>
 Virtualization became standard, in 775 was optional. </br>
 
 #### i7-930 / W3530 / X5630  </br>
