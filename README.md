@@ -98,8 +98,8 @@ but video capture and encoding is better with a capture card that has dedicated 
 QX9775 & QX9770 have +1% & +2% performance increase in Single-core vs. Q9650  </br>
 with massive power consumption increase: +36% & +58%. </br>
 E5-1620v2 has +85% performance increase in Single core vs. Q9650, </br>
-with +43% power consumption, </br>
-but... 12-core E5-2697v2 CPU vs. dual 6-core X5690 CPUs had a [-50% power](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_2697_v2-vs-intel_core_i7_990x) reduction, same 130w, </br>
+with +43% power consumption increase, </br>
+but... 12-core E5-2697v2 CPU vs. dual 6-core X5690 CPU's had a [-50% power](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_e5_2697_v2-vs-intel_core_i7_990x) reduction, same 130w, </br>
 with a Clock Frequency loss of: 2.70 GHz / 3.5 GHz "Turbo" vs. 3.46 GHz / 3.73 GHz (1-core) </br>
 Not a -50% power consumption clock speed vs. clock speed. </br>
 but E5-2697v2 has a slight performance boost of +6.3% Single-core with lower clock speed vs. i7-990x / X5690 / W3690. </br>
