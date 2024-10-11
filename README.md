@@ -133,11 +133,12 @@ Not designed for adding more PCIe cards without halving speed, </br>
 [i3-8350K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_8350k-vs-intel_core_2_quad_q9650) the fastest of the 8th gen, No HyperThreading. </br>
 Q9650 is 40% vs. single core "2.5x faster" </br>
 40% vs. Multi-Core same 4c vs, 4c No HT. </br>
-45nm vs, 14nm </br>
+14nm vs. 45nm </br>
 same Monolithic design </br>
 2008 vs. 2017 </br>
-95w vs 91w "slight power saving = drastic power efficiency increase" </br>
-4Ghz vs. 3GHz.  </br>
+91w vs 95w </br>
+slight power saving with drastic performance increase, </br>
+4Ghz vs. 3GHz, Not really 2.5x faster, at same 3GHz. </br>
 
 ### 9th gen </br>
 [i3-9350K](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_9350k-vs-intel_core_2_quad_q9650) </br>
