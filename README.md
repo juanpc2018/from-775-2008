@@ -57,9 +57,9 @@ i7-930 has a Gain of 1.37x in Multi-Thread "Single-core loss All Cores + Hyper T
 [i7-975](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_core_2_quad_q9650) / [X5687](https://www.cpu-world.com/Compare/867/Intel_Xeon_X5687_vs_Intel_Xeon_X5690.html),[!](https://www.cpu-world.com/Compare/352/Intel_Core_2_Quad_Q9650_vs_Intel_Xeon_X5687.html) / [W3580](https://www.cpu-world.com/Compare/862/Intel_Xeon_W3580_vs_Intel_Xeon_X5687.html) </br>
 Single-core Q9650 is 77% vs. i7-975 "+29%". </br>
 slight clock boost: 3.6GHz vs. 3GHz. </br>
-In Multi-Core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
+All cores / Multi-Core i7-975 has a clock loss from 3.6Ghz to 3.33Ghz </br>
 Q9650 is 63% vs. i7-975 in Multi-Thread "+58%". </br>
-4-cores vs. 4c+4t "8-threads" </br>
+4-cores vs. 4c / "8-threads" </br>
 
 There was a Faster 2-core [X5698](https://www.cpu-world.com/Compare/875/Intel_Xeon_X5687_vs_Intel_Xeon_X5698.html) very rare. </br>
 X5687 & X5698 were Not compatible with MacPro 5,1 2010-2012, </br>
