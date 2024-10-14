@@ -51,7 +51,7 @@ Multi-core: i7-930 has a New technology: </br>
 HyperThreading, an improvement around ~25% in most CPU's, this case 27%. </br>
 but requires software to be compiled to take advantage of Multi-Threads. </br>
 Q9650 Single-core has a loss of -17% in Multi-Core "All Cores." </br>
-i7-930 has a Net Gain of 103.2% in Multi-Thread "Single core loss in Multi-Core + Hyper Threading Gain." </br>
+i7-930 has a Gain of 1.37x in Multi-Thread "Single-core loss in All Cores + Hyper Threading Gain" </br>
 
 ### The fastest 4-core of the LGA1366 era: </br>
 [i7-975](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_975-vs-intel_core_2_quad_q9650) / [X5687](https://www.cpu-world.com/Compare/867/Intel_Xeon_X5687_vs_Intel_Xeon_X5690.html) / [W3580](https://www.cpu-world.com/Compare/862/Intel_Xeon_W3580_vs_Intel_Xeon_X5687.html) </br>
