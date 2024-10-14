@@ -47,7 +47,7 @@ small improvement of +9% in Single-core, but has New AES instructions required b
 Windows8 required SSE2/NX/PAE in [(2014)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/dn482072(v=win.10)?redirectedfrom=MSDN) </br>
 Windows8.1 required True [MPS 1.4](https://en.wikipedia.org/wiki/MultiProcessor_Specification) for some PCI cards / drivers, like Lynx AES16, some X58 boards did Not work. </br>
 
-Multi-core: i7-930 has a New technology: </br>
+i7-930 has a New technology: </br>
 HyperThreading, an improvement around ~25% in most CPU's, this case 27%. </br>
 but requires software to be compiled to take advantage of Multi-Threads. </br>
 Q9650 Single-core has a loss of -17% in Multi-Core "All Cores." </br>
